@@ -1,6 +1,6 @@
 - 👋 Hi! I’m @Dexlysic
 - 👀 I’m interested in gaining employment in the programming sector.
-- 🌱 I’m currently learning JavaScript, Node.js and Python.
+- 🌱 I’m currently learning JavaScript, Node.js, Express.js, Python & MongoDB
 - 💞️ I’m looking to collaborate on any projects to help further my knowledge.
 - 📫 How to reach me ... Discord: Dexlysic#0420 // Email: DexlysicHD@gmail.com
 
