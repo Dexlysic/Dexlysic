@@ -1,8 +1,8 @@
 - 👋 Hi! I’m @Dexlysic
-- 👀 I’m interested in gaining employment in the programming sector.
-- 🌱 I’m currently learning JavaScript, Node.js, Express.js, Python & MongoDB
+- 👀 I’m interested in gaining employment in the Cybersecurity sector.
+- 🌱 I’m currently learning various programming languages, as well as completing my certifications for CompTIA Net+ and Security+.
 - 💞️ I’m looking to collaborate on any projects to help further my knowledge.
-- 📫 How to reach me ... Discord: Dexlysic#0420 // Email: DexlysicHD@gmail.com
+- 📫 How to reach me ... Discord: Dexlysic#8007 // Email: DexlysicHD@gmail.com
 
 <!---
 Dexlysic/Dexlysic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
